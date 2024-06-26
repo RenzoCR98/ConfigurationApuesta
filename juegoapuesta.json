@@ -1,4 +1,4 @@
 {
-  "spring.datasource.username"="${postgresuser}",
+  "spring.datasource.username":"${postgresuser}",
   "spring.datasource.password":"${postgrespswd}"
 }
